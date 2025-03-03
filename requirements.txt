@@ -4,4 +4,5 @@ streamlit-float
 openai  # If using OpenAI for text generation
 gtts  # For text-to-speech
 pydub  # For handling audio files
+python-dotenv
 
