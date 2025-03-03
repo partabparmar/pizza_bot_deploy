@@ -1,0 +1,59 @@
+Pizza Ordering Bot - Question & Answer Guide
+
+Greeting & Order Start
+Question: Hi! Welcome to PizzaBot. Would you like to place an order?  
+Answer: Yes, I want to order a pizza.
+
+Pizza Selection
+Question:Great! What type of pizza would you like? 
+I’d like a pepperoni pizza.
+bagel pizaa
+salad pizza 
+chicken pizza
+
+Size Selection
+What size would you like—small, medium, or large?  
+Medium, please.
+
+Crust Selection  
+Would you like thin crust, regular, or stuffed crust?  
+Stuffed crust sounds good.
+
+Toppings & Customization  
+Would you like any extra toppings?  
+Yes, add mushrooms and extra cheese.  
+Got it! Mushrooms and extra cheese added.
+
+Quantity Confirmation  
+How many pizzas would you like?  
+Just one.
+
+Order Confirmation 
+So, you ordered a medium pepperoni pizza with stuffed crust, mushrooms, and extra cheese. Does that sound correct?  
+Yes, that's correct.
+
+8Delivery or Pickup 
+Would you like this for delivery or pickup?  
+Delivery.  
+Please provide your delivery address.  
+123 Main Street, Apartment 4B.
+
+Payment Options 
+Would you like to pay online or with cash on delivery?  
+I'll pay online.  
+I’ll send a payment link. Once you complete the payment, your order will be processed.
+
+Order Tracking & ETA  
+Your order has been placed! It will be delivered in approximately 30 minutes. Would you like to track your order?  
+Yes.  
+You can track your order using this link: [tracking_link].
+
+Support & Help
+I want to cancel my order.  
+I can help with that! Please provide your order number.
+
+Feedback Collection
+How was your experience with PizzaBot?  
+It was great!  
+Thank you! Enjoy your pizza!
+
